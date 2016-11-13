@@ -11,6 +11,9 @@ categories  :
 featureimg: /img/pic01.jpg
 ---
 
+![Beautiful Picture]({{ site.baseurl }}/img/pic02.jpg)
+{: .image .fit}
+
 Qu’est-ce qui est le plus beau? Blade Runner ou le *souvenir* de Blade Runner? La même question pourrait se poser pour tous les films de jeunesse, voire tous les films vus – dans ce cas je parlerais plutôt d’*impression laissée*, qui vous accompagne depuis la sortie du cinéma ou du salon de vos parents, et va poursuivre une lente maturation, sans que vous vous en rendiez compte, pendant la fin de votre lycée, pendant vos études supérieures et vos premiers émois, et pendant les chaotiques premières années du réel passage à l’âge adulte, depuis la colloc’ dans un rez-de-chaussée parisien jusqu’au premier endroit que vous appelez finalement « chez vous ».  
 
 J’ai revu Blade Runner ce soir, « chez moi », à 33 ans. Et je dois dire qu’il ma fallu lutter pour retrouver cette *impression* dans la version parfaite, HD, restaurée, et ouvertement améliorée/altérée par Monsieur Scott.
