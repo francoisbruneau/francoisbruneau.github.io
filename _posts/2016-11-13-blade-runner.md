@@ -11,8 +11,7 @@ categories  :
 featureimg: /img/pic01.jpg
 ---
 
-![Beautiful Picture]({{ site.baseurl }}/img/pic02.jpg)
-{: .image .fit}
+
 
 Qu’est-ce qui est le plus beau? Blade Runner ou le *souvenir* de Blade Runner? La même question pourrait se poser pour tous les films de jeunesse, voire tous les films vus – dans ce cas je parlerais plutôt d’*impression laissée*, qui vous accompagne depuis la sortie du cinéma ou du salon de vos parents, et va poursuivre une lente maturation, sans que vous vous en rendiez compte, pendant la fin de votre lycée, pendant vos études supérieures et vos premiers émois, et pendant les chaotiques premières années du réel passage à l’âge adulte, depuis la colloc’ dans un rez-de-chaussée parisien jusqu’au premier endroit que vous appelez finalement « chez vous ».  
 
@@ -27,3 +26,6 @@ Oui, il reste la B.O. de Vangelis, il reste les bouclettes de Sean Young, en gro
 Pourtant, je ne suis pas sûr de recommander l’expérience à ceux qui comme moi, ont le souvenir d’une copie DVD bruitée, neigeuse, vue sur une TV cathodique (comme les écrans dans le film), dont les imperfections masquaient les défauts, les détails, et laissaient l’imaginaire *fabriquer* le monde du film. Comme si la meilleure image que l’on pouvait effectivement recevoir du futur était cette image analogique et faiblement définie.
 
 Quand bien même, je ne peux assez remercier Mr Scott d’avoir créé ce monde, pas plus que je ne peux assez féliciter toutes les personnes ayant travaillé sur ce tournage (réputé dantesque) pour donner une existence concrète à cet univers humide, saturé, et pourtant étrangement chaleureux dans sa façon de laisser les êtres conserver leur portion congrue de réconfort (dans un bol de ramen ou un verre de vrai whisky), de souvenirs (implantés ou non, peu importe) ou d’identité culturelle – d’un quartier à l’autre. Dans une Terre arrivée au terme de son existence, l’humanité des êtres naturels ou artificiels renonce à disparaître.
+
+![Beautiful Picture]({{ site.baseurl }}/img/pic02.jpg)
+{: .image .fit}
