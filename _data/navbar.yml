@@ -1,5 +1,9 @@
 navbar_links:
-  - title: "About"
-    url: /about/
-  - title: "Typography"
-    url: /typography/
+  - title: "À propos"
+    url: /a-propos/
+  - title: "Photographie"
+    url: /photographie/
+  - title: "Vidéo"
+    url: /video/
+  - title: "Blog"
+    url: /blog/

@@ -7,7 +7,7 @@ tags        :
 - film
 description : Pensées autour du film culte de Ridley Scott.
 categories  :
-- movies
+- blog
 featureimg: /img/blade-runner-deckard-balcony1.jpg
 ---
 
