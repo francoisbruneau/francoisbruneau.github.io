@@ -8,6 +8,7 @@ baseurl:     /future-imperfect-jekyll
 author:
   name:      'François Bruneau'
   url:       https://about.me/francois.bruneau
+  email:     contact@francoisbruneau.com 
 
 paginate:    3
 paginate_path: "/:num/"
