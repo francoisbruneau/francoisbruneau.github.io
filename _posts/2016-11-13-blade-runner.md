@@ -29,4 +29,4 @@ Pourtant, je ne suis pas sûr de recommander l’expérience à ceux qui comme m
 Quand bien même, je ne peux assez remercier Mr Scott d’avoir créé ce monde, pas plus que je ne peux assez féliciter toutes les personnes ayant travaillé sur ce tournage (réputé dantesque) pour donner une existence concrète à cet univers humide, saturé, et pourtant étrangement chaleureux dans sa façon de laisser les êtres conserver leur portion congrue de réconfort (dans un bol de ramen ou un verre de vrai whisky), de souvenirs (implantés ou non, peu importe) ou d’identité culturelle – d’un quartier à l’autre. Dans une Terre arrivée au terme de son existence, l’humanité des êtres naturels ou artificiels renonce à disparaître.
 
 ![Stills from Blade Runner (1982)]({{ site.baseurl }}/img/blade-runner-montage.jpg)
-{: .image}
+{: .image .fit-on-small-screen}

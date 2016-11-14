@@ -46,6 +46,16 @@
 			}
 		}
 
+		&.fit-on-small-screen {
+			@include breakpoint(small) {
+				margin: 0 0 _size(element-margin) 0;
+				max-width: 100%;
+				img {
+					width: 100%;
+				}
+			}
+		}
+
 		&.featured {
 			display: block;
 			margin: 0 0 _size(section-spacing) 0;
