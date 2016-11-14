@@ -31,4 +31,7 @@ layout: default
 	</header>
 	<img class="image fit" src="{{ page.featureimg | prepend: site.baseurl }}">
 	{{ content }}
+	{% if page.attribution %}
+	<p class="attribution">{{ page.attribution }}</p>
+	{% endif %}
 </article>
