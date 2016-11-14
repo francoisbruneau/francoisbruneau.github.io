@@ -7,4 +7,25 @@
 			{% endfor %}
 		</ul>
 	</nav>
+	<nav class="main">
+		<ul>
+			<li class="menu">
+				<a class="fa-bars" href="#menu">Menu</a>
+			</li>
+		</ul>
+	</nav>
 </header>
+
+<section id="menu">
+		<section>
+			<ul class="links">
+				{% for link in site.data.navbar.navbar_links %}
+				<li>
+					<a href="{{ link.url | prepend: site.baseurl }}">
+						<h3>{{ link.title }}</h3>
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</section>
+</section>
