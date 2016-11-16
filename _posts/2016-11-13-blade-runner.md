@@ -9,7 +9,7 @@ description : Pensées autour du film culte de Ridley Scott.
 categories  :
 - blog
 featureimg: /img/blade-runner-deckard-balcony1.jpg
-attribution: Toutes les images sont © Warner Bros.
+attribution: Toutes les images sont ©&nbsp;Warner Bros.
 ---
 
 
