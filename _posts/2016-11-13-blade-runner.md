@@ -5,7 +5,7 @@ author      : François Bruneau
 date        : 2016-11-13
 tags        :
 - film
-description : Pensées autour du film culte de Ridley Scott.
+description : Pensées autour du film culte de Ridley Scott
 categories  :
 - blog
 featureimg: /img/blade-runner-deckard-balcony1.jpg
