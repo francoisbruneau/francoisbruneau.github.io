@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Video
+title: Portfolio vidéo
 permalink: /video/
 ---
 
 <article class="post">
 
-<h2>Video portfolio</h2>
+<h2>Portfolio vidéo</h2>
 
 <h3>Gift wrap workshop</h3>
 <p class="facts">2016, 3 minutes</p>

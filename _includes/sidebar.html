@@ -40,6 +40,7 @@
 	{% endif %}
 	{% endif %}
 
+
 	<!-- About -->
 		<section class="blurb">
 			<h2>Hello!</h2>
@@ -47,9 +48,31 @@
 			<p>À côté de mon métier de développeur, je pratique la photographie et la vidéo. Je voulais donner à ces passions un endroit pour vivre au grand jour.</p>
 			<p>J'écris sur le cinéma, la réalisation de films, le voyage, les livres, également sur des rencontres et des moments vécus.</p>
 			<p>Ici, pas besoin de choisir entre Spielberg et Antonioni.</p>
-			<ul class="actions">
-				<li><a href="{{ site.baseurl }}/a-propos/" class="button">En savoir plus</a></li>
-			</ul>
+		</section>
+
+	<!-- Featured sections -->
+		<section>
+			<div class="mini-posts">
+
+				{% if page.url != '/video/' %}
+				<article class="mini-post">
+					<header>
+						<h3><a href="{{ post.url | prepend: site.baseurl }}">Vidéo</a></h3>
+					</header>
+					<a href="{{ "/video" | prepend: site.baseurl }}" class="image"><img src="{{ "/img/blade-runner-deckard-balcony1.jpg" | prepend: site.baseurl }}"></a>
+				</article>
+				{% endif %}
+
+				{% if page.url != '/photographie/' %}
+				<article class="mini-post">
+					<header>
+						<h3><a href="{{ post.url | prepend: site.baseurl }}">Photographie</a></h3>
+					</header>
+					<a href="{{ "/photographie" | prepend: site.baseurl }}" class="image"><img src="{{ "/img/blade-runner-deckard-balcony1.jpg" | prepend: site.baseurl }}"></a>
+				</article>
+				{% endif %}
+
+			</div>
 		</section>
 
 	<!-- Footer -->

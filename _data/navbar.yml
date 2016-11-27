@@ -1,9 +1,7 @@
 navbar_links:
-  - title: "À propos"
-    url: /a-propos/
-  - title: "Photographie"
-    url: /photographie/
   - title: "Vidéo"
     url: /video/
+  - title: "Photographie"
+    url: /photographie/
   - title: "Blog"
     url: /
