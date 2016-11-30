@@ -2,7 +2,7 @@
 title:       François Bruneau
 description: Un blog cinéma et photo
 url:         http://francoisbruneau.github.io
-baseurl:     /future-imperfect-jekyll
+baseurl:     /
 
 #Author
 author:
