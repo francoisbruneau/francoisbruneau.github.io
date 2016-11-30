@@ -1,0 +1,36 @@
+
+/* Responsive Embed */
+/*
+/* based on:
+/* https://gist.github.com/jkeyes/ff1979ee60f32422de83
+*/
+
+.embed-container {
+  position: relative;
+  margin-bottom: 2em;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  height: auto;
+
+  &.video {
+    padding-bottom: 56.25%;
+  }
+
+  &.photo {
+    padding-bottom: 66.67%;
+  }
+
+  &.photoroman {
+    padding-bottom: 66.50%;
+  }
+
+  iframe, object, embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+}

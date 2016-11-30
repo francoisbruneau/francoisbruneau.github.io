@@ -70,6 +70,16 @@
 
 	p {
 		margin: 0 0 _size(element-margin) 0;
+
+		&.attribution, &.facts {
+			color: _palette(fg-bold);
+			font-family: _font(family-heading);
+			font-weight: _font(weight-heading-bold);
+			letter-spacing: _font(kerning-heading);
+			line-height: 1.65;
+			text-transform: uppercase;
+			font-size: 0.7em;
+		}
 	}
 
 	h1, h2, h3, h4, h5, h6 {

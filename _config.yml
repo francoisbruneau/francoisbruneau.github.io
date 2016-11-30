@@ -1,12 +1,14 @@
 # Details
-title:       Future Imperfect
-description: Jekyll port of Future Imperfect template by HTML5 UP
-url:         http://seshaljain.github.io
+title:       François Bruneau
+description: Un blog cinéma et photo
+url:         http://francoisbruneau.github.io
 baseurl:     /future-imperfect-jekyll
 
 #Author
 author:
-  name:      'John Doe'
+  name:      'François Bruneau'
+  url:       https://about.me/francois.bruneau
+  email:     contact@francoisbruneau.com
 
 paginate:    3
 paginate_path: "/:num/"
@@ -26,3 +28,4 @@ gems:
   - jekyll/tagging
   - jekyll-tagging-related_posts
   - jekyll-seo-tag
+  - jekyll-feed

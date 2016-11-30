@@ -103,10 +103,10 @@
 
 			// Move to main on <=large, back to sidebar on >large.
 				skel
-					.on('+large', function() {
+					.on('+large -xsmall', function() {
 						$intro.prependTo($main);
 					})
-					.on('-large', function() {
+					.on('-large +xsmall', function() {
 						$intro.prependTo($sidebar);
 					});
 

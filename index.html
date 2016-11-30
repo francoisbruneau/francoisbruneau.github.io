@@ -9,7 +9,26 @@ layout: page
 			<p>{{post.description}}</p>
 		</div>
 		<div class="meta">
-			<time class="published" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d %B, %Y" }}</time>
+			<time class="published" datetime="{{ post.date | date: "%Y-%m-%d" }}">
+			{% comment %} TODO: Move logic to helper {% endcomment %}
+			{% assign m = post.date | date: "%-m" %}
+			{{ post.date | date: "%-d" }}
+			{% case m %}
+				{% when '1' %}Janvier
+				{% when '2' %}Février
+				{% when '3' %}Mars
+				{% when '4' %}Avril
+				{% when '5' %}Mai
+				{% when '6' %}Juin
+				{% when '7' %}Juillet
+				{% when '8' %}Août
+				{% when '9' %}Septembre
+				{% when '10' %}Octobre
+				{% when '11' %}Novembre
+				{% when '12' %}Décembre
+			{% endcase %}
+			{{ post.date | date: "%Y" }}
+			</time>
 			<a href="#" class="author">
 			<span class="name">
 				{% if post.author %}
@@ -31,7 +50,7 @@ layout: page
 	<p>{{ post.excerpt | limit: 150 }}</p>
 	<footer>
 		<ul class="actions">
-			<li><a href="{{ post.url | prepend: site.baseurl }}" class="button big">Continue Reading <i class="fa fa-lg fa-angle-double-right"></i> </a></li>
+			<li><a href="{{ post.url | prepend: site.baseurl }}" class="button big">Continuer à lire <i class="fa fa-lg fa-angle-double-right"></i> </a></li>
 		</ul>
 		<ul class="stats">
 			{% for category in post.categories %}

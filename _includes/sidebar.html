@@ -2,10 +2,10 @@
 
 	<!-- Intro -->
 		<section id="intro">
-			<a href="/" class="logo"><img src="{{ site.baseurl }}/img/logo.jpg" alt="" /></a>
+			<a href="{{ site.baseurl }}/" class="logo"><img src="{{ site.baseurl }}/img/logo.jpg" alt="" /></a>
 			<header>
-				<h2>Future Imperfect</h2>
-				<p>Another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+				<h2>{{ site.title }}</h2>
+				<p>{{ site.description }}</p>
 			</header>
 		</section>
 	{% if site.related_posts.size >= 1 %}
@@ -40,25 +40,49 @@
 	{% endif %}
 	{% endif %}
 
+
 	<!-- About -->
 		<section class="blurb">
-			<h2>About the blog</h2>
-			<p>{{ site.description }}</p>
-			<ul class="actions">
-				<li><a href="{{ site.baseurl }}about/" class="button">Learn More</a></li>
-			</ul>
+			<h2>Hello!</h2>
+			<p>Je suis un Breton qui vit à Lausanne, en Suisse. J'ai la chance de gagner ma vie dans le web – un domaine qui me fascine depuis l'adolescence.</p>
+			<p>À côté de mon métier de développeur, je pratique la photographie et la vidéo. Je voulais donner à ces passions un endroit pour vivre au grand jour.</p>
+			<p>J'écris sur le cinéma, la réalisation de films, le voyage, les livres, également sur des rencontres et des moments vécus.</p>
+			<p>Ici, pas besoin de choisir entre Spielberg et Antonioni.</p>
+		</section>
+
+	<!-- Featured sections -->
+		<section>
+			<div class="mini-posts">
+
+				{% if page.url != '/video/' %}
+				<article class="mini-post">
+					<header>
+						<h3><a href="{{ post.url | prepend: site.baseurl }}">Vidéo</a></h3>
+					</header>
+					<a href="{{ "/video" | prepend: site.baseurl }}" class="image"><img src="{{ "/img/video.jpg" | prepend: site.baseurl }}"></a>
+				</article>
+				{% endif %}
+
+				{% if page.url != '/photographie/' %}
+				<article class="mini-post">
+					<header>
+						<h3><a href="{{ post.url | prepend: site.baseurl }}">Photographie</a></h3>
+					</header>
+					<a href="{{ "/photographie" | prepend: site.baseurl }}" class="image"><img src="{{ "/img/photo.jpg" | prepend: site.baseurl }}"></a>
+				</article>
+				{% endif %}
+
+			</div>
 		</section>
 
 	<!-- Footer -->
 		<section id="footer">
 			<ul class="icons">
-				<li><a href="#" class="fa-twitter"><span class="label">Twitter</span></a></li>
 				<li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
-				<li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li>
-				<li><a href="#" class="fa-rss"><span class="label">RSS</span></a></li>
-				<li><a href="#" class="fa-envelope"><span class="label">Email</span></a></li>
+				<li><a href="{{ site.baseurl }}/feed.xml" target="_blank" class="fa-rss"><span class="label">RSS</span></a></li>
+				<li><a href="mailto:{{site.author.email}}" class="fa-envelope"><span class="label">Email</span></a></li>
 			</ul>
-			<p class="copyright">&copy; Untitled. Design: <a href="http://html5up.net">HTML5 UP</a>. Images: <a href="http://unsplash.com">Unsplash</a>. Avatars: <a href="http://uifaces.com">ui Faces</a></p>
+			<p class="copyright">&copy; François Bruneau. Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a>.</p>
 		</section>
 
 </section>
