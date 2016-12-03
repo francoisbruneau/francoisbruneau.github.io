@@ -1,3 +1,13 @@
+---
+# Do not delete this line. The main JS file needs this front matter.
+---
+
+{% include_relative jquery.min.js %}
+{% include_relative skel.min.js %}
+{% include_relative picturefill.min.js %}
+{% include_relative util.js %}
+
+
 /*
 	Future Imperfect by HTML5 UP
 	html5up.net | @n33co
