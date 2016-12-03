@@ -8,7 +8,6 @@
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
 	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <style type="text/css">
     {% capture inline_css %}
       {% include inline.scss %}
