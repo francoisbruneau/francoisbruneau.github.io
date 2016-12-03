@@ -24,7 +24,9 @@ highlighter: rouge
 # Gems
 gems:
   - jekyll-paginate
-  - jekyll/tagging
-  - jekyll-tagging-related_posts
-  - jekyll-seo-tag
   - jekyll-feed
+
+# Plugins unavailable on Github Pages
+# TODO: Replace by http://www.minddust.com/post/tags-and-categories-on-github-pages/
+#  - jekyll-tagging
+#  - jekyll-tagging-related_posts
