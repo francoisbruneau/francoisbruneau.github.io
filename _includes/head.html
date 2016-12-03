@@ -9,6 +9,13 @@
 
 	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <style type="text/css">
+    {% capture inline_css %}
+      {% include inline.scss %}
+    {% endcapture %}
+    {{ inline_css | scssify }}
+  </style>
+
 	<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
