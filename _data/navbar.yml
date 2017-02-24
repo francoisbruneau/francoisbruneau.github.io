@@ -5,3 +5,5 @@ navbar_links:
     url: /photographie/
   - title: "Blog"
     url: /
+  - title: "Bio"
+    url: /bio/

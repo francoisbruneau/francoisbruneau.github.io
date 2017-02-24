@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="post">
+	<header>
+		<div class="title">
+			<h2>{{ page.title }}</h2>
+			{% if page.description %}
+			<p>{{page.description}}</p>
+			{% endif %}
+			{% if page.tags %}
+			<p>Tags: {{ page.tags | array_to_sentence_string }}</p>
+			{% endif %}
+		</div>
+	</header>
+	{{ content }}
+</article>
