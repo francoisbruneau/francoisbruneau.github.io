@@ -12,6 +12,11 @@ layout: default
 			<p>Tags: {{ page.tags | array_to_sentence_string }}</p>
 			{% endif %}
 		</div>
+		<div class="meta">
+				{% if page.meta_link %}
+				<p>{{page.meta_link}}</p>
+			  {% endif %}
+		</div>
 	</header>
 	{{ content }}
 </article>
