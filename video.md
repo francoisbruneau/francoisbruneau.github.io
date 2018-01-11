@@ -16,6 +16,7 @@ permalink: /video/
 </div>
 
 <h3>Busta & Havka</h3>
+<p class="facts" style="margin-bottom:0">Sélection officielle 2017 – Hip Hop Film Festival NYC</p>
 <p class="facts">2016, 4 minutes</p>
 <p>De la sueur, du sang, et les gestes tantôt tendres tantôt furieux du graffeur et breakdancer Kevin Bidault. Quatre jours de tournage pour produire ce condensé nerveux, ode à la fièvre de la réalisation artistique comme besoin vital.</p>
 <div class='embed-container video'>
