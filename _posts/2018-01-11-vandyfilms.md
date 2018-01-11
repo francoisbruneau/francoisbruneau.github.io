@@ -31,7 +31,7 @@ Nicolas: En fait, quand j’ai commencé, j’avais un petit peu d’argent de c
 # Oliver, tu avais un day job avant de démarrer vandyfilms ?
 Oliver: Non, j'ai fini mon master en comptabilité et finance à Lausanne, je suis ensuite parti 6 mois à New York faire un stage chez Swissnex (une structure de la confédération qui aide les start-up suisses à s’implanter à l’étranger). À mon retour, on a commencé à bosser ensemble. Au début, financièrement c’était un peu tendu. Mais bon, c’est normal! 
 
-# Le challenge de la première année c’était donc de remplir le « pipeline ». 
+# Le challenge de la première année c’était donc de remplir le&nbsp;«&nbsp;pipeline ». 
 Nicolas: Exact. Et puis l’autre challenge c’était de savoir ce qu’on voulait devenir. On voulait se placer dans un marché déjà existant et pas loin d’être saturé. 
 
 Oliver: Saturé, je ne pense pas. Mais il y a beaucoup d’acteurs. De petits acteurs. Si on compare à Zürich, il y a moins de gros studios. C’est plus fragmenté. 
@@ -57,7 +57,7 @@ Pour les mandats qu’on obtient aussi, il y a toujours une part de chance. L’
 
 
 # Vous travaillez surtout pour des clients locaux, ou plutôt internationaux? 
-Nicolas: Locaux, en grande partie. Après, on a quand même assez régulièrement des mandats à l’étranger. Je pense à un job précis suite à ce film qu’on avait fait: « Ataraxia ». On l’a mis sur Vimeo, on a eu un Staff Pick, ce qui nous a valu pas mal de retombées. Une agence américaine a vu ce qu’on faisait, ils nous ont contactés, ils ont dit: « On réalise une pub TV pour des vêtements de sport, on veut les mêmes images que vous avez faites pour votre film! ». Les termes étaient simples: « Voilà, on aimerait que vous shootiez des images, on a tant de budget par jour, est-ce que ça vous va? » 
+Nicolas: Locaux, en grande partie. Après, on a quand même assez régulièrement des mandats à l’étranger. Je pense à un job précis suite à ce film qu’on avait fait: « Ataraxia ». On l’a mis sur Vimeo, on a eu un Staff Pick, ce qui nous a valu pas mal de retombées. Une agence américaine a vu ce qu’on faisait, ils nous ont contactés, ils ont dit: « On réalise une pub TV pour des vêtements de sport, on veut les mêmes images que vous avez faites pour votre film! ». Les termes étaient simples:&nbsp;«&nbsp;Voilà, on aimerait que vous shootiez des images, on a tant de budget par jour, est-ce que ça vous va? » 
 
 # Est-ce que vous êtes confrontés à la course au plus bas prix? Ou est-ce que pour vos partenaires, ce n’est finalement pas si important?
 Nicolas: Non, à chaque fois c’est la lutte! La plupart des jobs qu’on fait sont des réponses à appels d’offres donc on est en général au minimum trois agences sur le coup. Des fois plus. Et on sait rarement qui sont les autres. Dans notre argumentaire, on essaie de mettre en avant, entre autres, notre proximité. 
@@ -70,7 +70,7 @@ Oliver: Au début on se posait ces questions-là. Aujourd’hui, on sait qu’il
 
 Nicolas: On n’a clairement pas épuisé les possibilités qu’il y a ici. 
 
-# Parce que vous n’êtes pas sur une seule thématique particulière. Est-ce que ça vous arrive tout de même de dire: « Non, on ne filme pas ça » ?
+# Parce que vous n’êtes pas sur une seule thématique particulière. Est-ce que ça vous arrive tout de même de dire:&nbsp;«&nbsp;Non, on ne filme pas ça » ?
 Oliver: Certaines choses, oui. Par exemple, on ne réalise pas de vidéos de mariage, ce n’est pas un secteur que nous souhaitons explorer. Mais globalement, on touche à de nombreux domaines et c’est ce qui nous intéresse aussi. Moi j’adore que l’on passe d’un univers à l’autre, que ce soit le sport, l’horlogerie, la culture, l’évènementiel…
 
 Nicolas: Déjà quand j’étais indépendant j’adorais switcher d’un milieu à l’autre: aller faire un portrait dans une assurance et après aller au sommet d’une montagne pour filmer!
@@ -97,7 +97,7 @@ Nicolas: Ce n’est pas du tout au goût du jour pour l’instant. On tient trop
 # Est-ce que vous avez un défi ou un rêve ultime? Un Saint-Graal? Un truc que vous voudriez filmer? Un client de rêve, un endroit?
 Oliver: Ouais, filmer en Cineflex au-dessus de New York, ce serait pas mal! (rires)
 
-Nicolas: Ce qui me plairait serait de pouvoir travailler sans contrainte. Tous les jobs qu’on fait comportent un impératif financier qui dicte ce qu’on peut mettre en oeuvre ou réaliser. Alors, créativement c’est stimulant parce qu’il faut trouver des idées pour faire bien avec pas beaucoup d’argent, mais une fois ce serait chouette d’avoir un client qui vient et qui nous dit « Voilà, on a besoin de faire un film sur ça et puis faites comme vous avez envie! » Du coup, bah on fera de l’hélico en Cineflex, on louera des grues énormes, peut-être qu’on fera appel à un méga bon réalisateur qui viendrait avec un concept incroyable. On pourra engager toutes les meilleures personnes de la Terre pour chaque domaine. 
+Nicolas: Ce qui me plairait serait de pouvoir travailler sans contrainte. Tous les jobs qu’on fait comportent un impératif financier qui dicte ce qu’on peut mettre en oeuvre ou réaliser. Alors, créativement c’est stimulant parce qu’il faut trouver des idées pour faire bien avec pas beaucoup d’argent, mais une fois ce serait chouette d’avoir un client qui vient et qui nous dit&nbsp;«&nbsp;Voilà, on a besoin de faire un film sur ça et puis faites comme vous avez envie! » Du coup, bah on fera de l’hélico en Cineflex, on louera des grues énormes, peut-être qu’on fera appel à un méga bon réalisateur qui viendrait avec un concept incroyable. On pourra engager toutes les meilleures personnes de la Terre pour chaque domaine. 
 
 # Votre prochain défi là, maintenant? 
 Oliver: Développer la boîte. On n’a qu’un an, on a encore plein de choses à faire. Augmenter la base de clients. Travailler pour des clients plus gros avec qui on a du plaisir à collaborer. 
