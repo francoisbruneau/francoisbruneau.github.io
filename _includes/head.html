@@ -9,7 +9,7 @@
   <meta property="og:title" content="{{ site.title }} - {{ site.description }}{% if page.title %} - {{ page.title }}{% endif %}" />
   <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 
-  <meta property="og:image" content="{% if page.featureimg %}{{ site.baseurl }}{{ page.featureimg }}{% else %}{{ site.baseurl }}/img/authors/francoisbruneau_big.jpg{% endif %}" />
+  <meta property="og:image" content="{% if page.featureimg %}{{ site.url }}{{ page.featureimg }}{% else %}{{ site.url }}/img/authors/francoisbruneau_big.jpg{% endif %}" />
 
 	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
   <style type="text/css">
