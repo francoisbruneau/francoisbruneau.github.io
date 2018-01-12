@@ -82,7 +82,7 @@ Nicolas: Non ça n’a pas toujours été les deux. J’ai commencé en ne faisa
 Nicolas: Maintenant, je ne fais quasiment plus que de la vidéo. On continue à faire de la photo de temps en temps mais c’est de loin pas le principal du boulot. 
 
 # Est-ce que vous avez des films culte? Les premiers qui vous viennent en tête, qui vous définissent.
-Oliver: Question difficile. Des classiques de quand j’étais plus jeune comme Forrest Gump, Fargo, Full Metal Jacket. Apocalypse Now aussi. Ou des films récents comme Sicario ou No Country for Old Men . J’aime les ambiances.
+Oliver: Question difficile. Des classiques de quand j’étais plus jeune comme Forrest Gump, Fargo, Full Metal Jacket. Apocalypse Now aussi. Ou des films récents comme Sicario ou No Country for Old Men. J’aime les ambiances.
 
 Nicolas: Je regarde bout par bout Stalker de Tarkovsky. Je le mets 20 minutes dans mon lit et puis après j’arrête, et je recommence trois jours après. C’est juste que chaque plan est tellement beau, tu prends une telle claque que c’est dur de regarder trop d’un coup. Je me concentre sur le visuel et l’effet que ça me fait. Ce que j’aime c’est les atmosphères, qu’elles soient amenées de manière visuelle, avec le son, la musique ou le propos. J’aime aussi beaucoup les films de Denis Villeneuve. Sicario, Prisoners, j’ai adoré. Arrival, j’ai trouvé magnifique. 
 
