@@ -89,7 +89,7 @@ Nicolas: Je regarde bout par bout Stalker de Tarkovsky. Je le mets 20 minutes da
 Émile: « Old Boy », adaptation d’un manga japonais des années 90, fait par le sud-coréen Chan-Wook Park. Pour la photographie, et le jeu d’acteur que je trouve exceptionnel. 
 
 # Un directeur photo ou réalisateur qui vous a inspiré? 
-NJ: Roger Deakins, Emmanuel Lubezki, qui restent quand même des maîtres de nos jours.
+Nicolas: Roger Deakins, Emmanuel Lubezki, qui restent quand même des maîtres de nos jours.
 
 # Est-ce que ça vous taquine de passer un jour à la fiction?
 Nicolas: Ce n’est pas du tout au goût du jour pour l’instant. On tient trop à cette diversité des mandats et des sujets, alors qu’une caractéristique de la fiction c’est de plonger dans un projet unique pendant des mois. 
