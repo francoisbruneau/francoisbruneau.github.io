@@ -31,7 +31,7 @@ Nicolas: En fait, quand j’ai commencé, j’avais un petit peu d’argent de c
 # Oliver, tu avais un day job avant de démarrer vandyfilms ?
 Oliver: Non, j'ai fini mon master en comptabilité et finance à Lausanne, je suis ensuite parti 6 mois à New York faire un stage chez Swissnex (une structure de la confédération qui aide les start-up suisses à s’implanter à l’étranger). À mon retour, on a commencé à bosser ensemble. Au début, financièrement c’était un peu tendu. Mais bon, c’est normal! 
 
-# Le challenge de la première année c’était donc de remplir le&nbsp;«&nbsp;pipeline ». 
+# Le challenge de la première année c’était donc de remplir le&nbsp;«&nbsp;pipeline«&nbsp;». 
 Nicolas: Exact. Et puis l’autre challenge c’était de savoir ce qu’on voulait devenir. On voulait se placer dans un marché déjà existant et pas loin d’être saturé. 
 
 Oliver: Saturé, je ne pense pas. Mais il y a beaucoup d’acteurs. De petits acteurs. Si on compare à Zürich, il y a moins de gros studios. C’est plus fragmenté. 
