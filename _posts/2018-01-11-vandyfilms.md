@@ -29,7 +29,7 @@ Oliver: j’ai une formation en comptabilité et finance. Au terme de mes étude
 Nicolas: En fait, quand j’ai commencé, j’avais un petit peu d’argent de côté que j’avais gagné pendant mon service civil. Vu que je sortais de l’université, je gagnais un très bon salaire. Je ne dépensais rien, et j’ai mis de côté, pendant six mois. J’ai pu vivre un peu là-dessus et assez rapidement j’ai décroché des mandats. 
 
 # Oliver, tu avais un day job avant de démarrer vandyfilms ?
-Oliver: Non. Dès mon retour de New York, on a commencé à bosser ensemble. Au début, financièrement c’était un peu tendu. Mais bon, c’est normal! 
+Oliver: Non, dès mon retour de New York, on a commencé à bosser ensemble. Au début, financièrement c’était un peu tendu. Mais bon, c’est normal! 
 
 # Le challenge de la première année c’était donc de remplir le&nbsp;«&nbsp;pipeline&nbsp;». 
 Nicolas: Exact. Et puis l’autre challenge c’était de savoir ce qu’on voulait devenir. On voulait se placer dans un marché déjà existant et pas loin d’être saturé. 
