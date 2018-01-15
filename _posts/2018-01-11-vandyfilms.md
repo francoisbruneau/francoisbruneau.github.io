@@ -151,7 +151,7 @@ Oliver: Ouais, filmer en Cineflex au-dessus de New York, ce serait pas mal! (rir
 Nicolas: Ce qui me plairait serait de pouvoir travailler sans contrainte. Tous les jobs qu’on fait comportent un impératif financier qui dicte ce qu’on peut mettre en oeuvre ou réaliser. Alors, créativement c’est stimulant parce qu’il faut trouver des idées pour faire bien avec pas beaucoup d’argent, mais une fois ce serait chouette d’avoir un client qui vient et qui nous dit&nbsp;«&nbsp;Voilà, on a besoin de faire un film sur ça et puis faites comme vous avez envie! » Du coup, bah on fera de l’hélico en Cineflex, on louera des grues énormes, peut-être qu’on fera appel à un méga bon réalisateur qui viendrait avec un concept incroyable. On pourra engager toutes les meilleures personnes de la Terre pour chaque domaine.
 
 # Votre prochain défi là, maintenant?
-Oliver: Développer la boîte. On n’a qu’un an, on a encore plein de choses à faire. Augmenter la base de clients. Travailler pour des clients plus gros avec qui on a du plaisir à collaborer.
+Oliver: Développer la boîte. On n’a qu’un an, on a encore plein de choses à faire. Augmenter la base de clients. Travailler pour des clients de plus grande envergure avec qui on a du plaisir à collaborer.
 
 Nicolas: Le plus gros défi c’est d'arriver à élever continuellement la qualité, le visuel et l'esthétique de ce qu'on fait.
 
