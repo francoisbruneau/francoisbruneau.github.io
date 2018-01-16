@@ -62,7 +62,7 @@ Nicolas: Locaux, en grande partie. Après, on a quand même assez régulièremen
 # Est-ce que vous êtes confrontés à la course au plus bas prix? Ou est-ce que pour vos partenaires, ce n’est finalement pas si important?
 Nicolas: Non, à chaque fois c’est la lutte! La plupart des jobs qu’on fait sont des réponses à appels d’offres donc on est en général au minimum trois agences sur le coup. Des fois plus. Et on sait rarement qui sont les autres. Dans notre argumentaire, on essaie de mettre en avant, entre autres, notre proximité.
 
-# Il y a des grosses phases de négociation? Vous dites: « D’accord, on pourra faire moins cher mais il faudra enlever cette séquence-là… » ?
+# Il y a des grosses phases de négociation? Vous dites: «&nbsp;D’accord, on pourra faire moins cher mais il faudra enlever cette séquence-là… » ?
 Nicolas: Tout à fait. C’est compliqué parce qu’on fait des boulots de différentes envergures. Des fois, il y a des clients qui nous contactent mais on ne sait pas si c’est un petit boulot ou un mandat plus conséquent. On essaie de cerner le plus possible, mais on ne peut pas présupposer plus que tant. Alors des fois on envoie des offres et puis c’est beaucoup trop cher, et puis des fois on envoie des offres et puis en fait on aurait pu viser beaucoup plus haut.
 
 # Nicolas, est-ce qu’il y a eu un chemin de la photo vers la vidéo? Est-ce que c’était toujours un peu les deux?
