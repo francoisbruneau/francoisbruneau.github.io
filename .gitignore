@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 future-imperfect-jekyll.sublime-project
 future-imperfect-jekyll.sublime-workspace
+.DS_Store
